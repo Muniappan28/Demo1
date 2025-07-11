@@ -287,11 +287,4 @@
         </notificationChannels>
         <notificationType>voice_call_share</notificationType>
     </notificationTypeSettings>
-    <notificationTypeSettings>
-        <notificationChannels>
-            <desktopEnabled>true</desktopEnabled>
-            <mobileEnabled>false</mobileEnabled>
-        </notificationChannels>
-        <notificationType>ya_contract_renewal_notify</notificationType>
-    </notificationTypeSettings>
 </NotificationTypeConfig>

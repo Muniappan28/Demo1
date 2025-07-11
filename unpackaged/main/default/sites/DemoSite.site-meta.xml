@@ -23,6 +23,7 @@
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
+    <serverIsDown>SNA_pQO6W_sf_default_cdn_DemoSite1</serverIsDown>
     <siteAdmin>nappainums-k160@force.com</siteAdmin>
     <siteGuestRecordDefaultOwner>nappainums-k160@force.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>

@@ -10,4 +10,18 @@
         <target>/contactsupport</target>
         <type>InternalLink</type>
     </navigationMenuItem>
+    <navigationMenuItem>
+        <label>New menu item</label>
+        <position>2</position>
+        <publiclyAvailable>false</publiclyAvailable>
+        <target>Account</target>
+        <type>SalesforceObject</type>
+    </navigationMenuItem>
+    <navigationMenuItem>
+        <label>New menu item</label>
+        <position>3</position>
+        <publiclyAvailable>false</publiclyAvailable>
+        <target>Logout</target>
+        <type>Event</type>
+    </navigationMenuItem>
 </NavigationMenu>
